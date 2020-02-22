@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "type": "Italienskt",
+        "title": "Emilia Torsson",
+        "city": "Malmö",
+        "years": 5,
+        "image": "../assets/images/kock3.jpg",
+        "description": "Nyfiken kock som hittar sin isnpiration i det italienska köket."
+      }
+    },
+    {
+      "attributes": {
+        "type": "Fusion",
+        "title": "Maja Stenkvist",
+        "city": "Stockholm",
+        "years": 3,
+        "image": "../assets/images/kock2.jpg",
+        "description": "Nytänkande och nyskapande som brinner för fusion/crossover."
+      }
+    },
+    {
+      "attributes": {
+        "type": "Husmans",
+        "title": "Sture Svensson",
+        "city": "Göteborg",
+        "years": 7,
+        "image": "../assets/images/kock1.jpg",
+        "description": "Erfaren kock med en kärlek för svenska husmanskost men är inte rädd för att testa nya saker."
+      }
+    }
+  ]
+}

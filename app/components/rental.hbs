@@ -1,17 +1,16 @@
 {{yield}}
 <article class="rental">
-    <Rental::Image src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
-        alt="A picture of Grand Old Mansion" />
+    <Rental::Image src={{@rental.image}} alt="En bild på {{@rental.title}}" />
     <div class="details">
-        <h3>Sture Stensson</h3>
+        <h3>{{@rental.title}}</h3>
         <div class="detail type">
-            <span>Typ av kök:</span> Husmanskost
+            <span>Typ av kök:</span> {{@rental.type}}
         </div>
         <div class="detail location">
-            <span>Stad:</span> Göteborg
+            <span>Stad:</span> {{@rental.city}}
         </div>
         <div class="detail bedrooms">
-            <span>År av erfarenhet:</span> 7
+            <span>År av erfarenhet:</span> {{@rental.years}}
         </div>
     </div>
 </article>

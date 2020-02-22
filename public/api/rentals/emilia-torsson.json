@@ -1,0 +1,11 @@
+{
+  "data": {
+    "attributes": {
+      "title": "Emilia Torsson",
+      "city": "Malmö",
+      "years": 5,
+      "image": "../assets/images/kock3.jpg",
+      "description": "Erfaren, framgångsrik kock som brinner för asian fusion."
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "attributes": {
+      "type": "Husmanskost",
+      "title": "Sture Svensson",
+      "city": "Göteborg",
+      "years": 7,
+      "image": "../assets/images/kock1.jpg",
+      "description": "Erfaren kock med en kärlek för svenska husmanskost men är inte rädd för att testa nya saker."
+    }
+  }
+}

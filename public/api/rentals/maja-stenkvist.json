@@ -1,0 +1,11 @@
+{
+  "data": {
+    "attributes": {
+      "title": "Maja Stenkvist",
+      "city": "Stockholm",
+      "years": 3,
+      "image": "../assets/images/kock2.jpg",
+      "description": "Nytänkande och nyskapande kock med ett öga för detaljer."
+    }
+  }
+}
